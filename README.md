@@ -1,7 +1,7 @@
 # minDupe
  Minecraft Spigot 1.18.1 Plugin, Adds A Command To Dupe Held Item
  <hr>
- Need help? Contact me on discord @cosmicvfx#5436
+ Need help? Contact me on discord @18O4#4350
  <hr>
  License: https://github.com/18O4/miniDupe/blob/main/LICENSE
  <hr>
