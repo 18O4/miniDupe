@@ -1,0 +1,10 @@
+# =================================================
+# =                                               =
+# =                minDupe Configs                =
+# =          Do not touch unless you know         =
+# =              what you are doing!              =
+# =                                               =
+# =================================================
+
+
+InsufficientPermission: '&6[miniDupe] &cInsufficient permissions! &7({permission}&7)'

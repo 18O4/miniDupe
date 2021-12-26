@@ -1,0 +1,12 @@
+name: miniDupe
+version: '${project.version}'
+main: me.minioof.minidupe.miniDupe
+api-version: 1.18
+authors: [ 18O4 ]
+description: a basic plugin with a /dupe command
+website: 18o4.tk
+
+commands:
+  dupe:
+    description: a very basic command to give you the item you are holding
+    usage: /<command>
