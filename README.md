@@ -7,9 +7,9 @@
  <hr>
 Download: https://github.com/18O4/miniDupe/releases
 <hr>
-Commands: 
+Commands: <br/>
  /dupe - duplicates your held item<br/>
 <hr>
-Permissions:
+Permissions: <br/>
  minidupe.dupe - gives access to /dupe
 <hr>
