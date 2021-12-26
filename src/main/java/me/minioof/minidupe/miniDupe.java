@@ -8,8 +8,6 @@ public final class miniDupe extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-        getConfig().options().copyDefaults();
-        saveDefaultConfig();
 
         getCommand("dupe").setExecutor(new dupeCommand());
     }
