@@ -1,10 +1,10 @@
 name: miniDupe
 version: '${project.version}'
-main: me.minioof.minidupe.miniDupe
-api-version: 1.18
-authors: [ 18O4 ]
-description: a basic plugin with a /dupe command
-website: 18o4.tk
+main: me.minioof.minidupe_v2.miniDupe
+api-version: 1.17
+authors: [ 18o4 ]
+description: minidupe but version 2
+website: https://18o4.github.io
 
 commands:
   dupe:
